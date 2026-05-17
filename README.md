@@ -11,12 +11,12 @@ I used this project to practice and apply everything I learned while exploring t
 ## 📂 Project Structure
 
 All project files are placed inside the same folder, including:
-- `Pc.html` → Main webpage file
+- `Main.html` → Main webpage file
 - `fullstack.html`
 - `Resigiration.html`
 - `image/` → Contains all project images
 
-▶️ Open `Pc.html` to view the main webpage.
+▶️ Open `Main.html` to view the main webpage.
 
 This project marks the beginning of my journey into the tech field and serves as a strong first step toward becoming a full-stack developer.
 
